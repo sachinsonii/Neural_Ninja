@@ -55,9 +55,3 @@ Neural Ninja is a side-scrolling AI-based game built with Pygame, where AI-contr
 ## License
 This project is licensed under the MIT License.
 
-## Contributing
-Feel free to fork the project, submit pull requests, and improve the AI or add new features!
-
-## Author
-Created by **Your Name**. For inquiries, contact [your-email@example.com].
-
