@@ -13,7 +13,7 @@ Neural Ninja is a side-scrolling AI-based game built with Pygame, where AI-contr
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/neural-ninja.git
+   git clone https://github.com/sachinsonii/Neural_Ninja.git
    cd neural-ninja
    ```
 2. Install dependencies:
