@@ -22,7 +22,7 @@ Neural Ninja is a side-scrolling AI-based game built with Pygame, where AI-contr
    ```
 3. Run the game:
    ```sh
-   python neural_ninja.py
+   python main.py
    ```
 
 ## Controls
